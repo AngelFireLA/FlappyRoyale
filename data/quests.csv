@@ -1,0 +1,4 @@
+id,type,value,gamemode,completed,text,progress
+1,total_distance,100,0,True,Atteindre un total de {} points,442
+2,minimum_distance,50,0,False,Obtenir au moins 1 fois {} points,73
+3,highscore,-1,0,False,Battre son record,0
